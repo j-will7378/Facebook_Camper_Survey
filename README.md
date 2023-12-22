@@ -143,9 +143,14 @@ The p-value is 0.7413611616086629
 2. Satisfaction with the boot camp is independent of the location of the boot camp.
 
 
+# Results of the open end part of the survey
 
 
+## First, look at the word frequency for each column.
 
+![carbon (2)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/59eae06f-c3cc-4024-810b-73ecaead7417)
+
+![carbon (4)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/5b4cde40-e598-48bf-8a81-f5903245aead)
 
 
 
