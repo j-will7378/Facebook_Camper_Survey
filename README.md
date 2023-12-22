@@ -127,37 +127,15 @@ H<sub>0= Satisfaction is independent of location.
 
 H<sub>a= Satisfaction depends on location.
 
-```# check the dependency of variables
-# is satisfaction independent of location
-# H0 = satisfaction is independent of location Ha = Satisfaction depends on location
+![carbon](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/5fe63e9e-3e09-4577-9c49-af38d32d41cf)
 
-# import the required function
-from scipy.stats import chi2_contingency
-
-# Create a contingency table
-contingency_table = pd.crosstab(df['menloPark/non-menloPark'], df['Overall satisfaction with selection process'])
-
-# Perform the Chi-squared test
-chi, p_value, dof, expected = chi2_contingency(contingency_table)
-
-# Print the p-value
-print('The p-value is', p_value)
-
-The p-value is 0.7413611616086629 ```
+The p-value is 0.7413611616086629
 
 
-```# create function to check all variables
-def independece_test(question):
-# Create a contingency table
-  contingency_table = pd.crosstab(df['menloPark/non-menloPark'], df[question])
+![carbon (1)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/320c35c1-a5a3-46b3-80a4-5a981fa883f4)
 
-# Perform the Chi-squared test
-  chi, p_value, dof, expected = chi2_contingency(contingency_table)
+![Screenshot 2023-12-21 at 11 55 23 PM](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/2df13e2b-d51e-4a60-b33e-bdd4bc4dda7d)
 
-# Print the p-value
-  print('The p-value is', p_value) ```
-
-![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/af2afa6e-f9af-4a93-b1cf-9a621f449f0f)
 
 
 
