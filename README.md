@@ -127,7 +127,7 @@ H<sub>0= Satisfaction is independent of location.
 
 H<sub>a= Satisfaction depends on location.
 
-# check the dependency of variables
+```# check the dependency of variables
 # is satisfaction independent of location
 # H0 = satisfaction is independent of location Ha = Satisfaction depends on location
 
@@ -143,10 +143,10 @@ chi, p_value, dof, expected = chi2_contingency(contingency_table)
 # Print the p-value
 print('The p-value is', p_value)
 
-The p-value is 0.7413611616086629
+The p-value is 0.7413611616086629 ```
 
 
-# create function to check all variables
+```# create function to check all variables
 def independece_test(question):
 # Create a contingency table
   contingency_table = pd.crosstab(df['menloPark/non-menloPark'], df[question])
@@ -155,7 +155,7 @@ def independece_test(question):
   chi, p_value, dof, expected = chi2_contingency(contingency_table)
 
 # Print the p-value
-  print('The p-value is', p_value)
+  print('The p-value is', p_value) ```
 
 ![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/af2afa6e-f9af-4a93-b1cf-9a621f449f0f)
 
