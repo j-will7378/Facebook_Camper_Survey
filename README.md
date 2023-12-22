@@ -5,7 +5,7 @@ Meta's Bootcamp is a 6-8 week program for new employees to onboard and select a 
 We want to get a baseline measurement on what the camper experiences. This initial measurement will allow for future improvement of the program.
 
 ## Why is this important?
-The boot camp for Facebook's new software engineer hires is one of the things that sets them apart from other tech companies. Giving SWE employees agency over what they will be working is a way to attract the best and the brightest. This makes sure that new SWEs will be working on things that they truly care about.
+The boot camp for Facebook's new software engineer hires is one of the things that sets them apart from other tech companies. Giving SWE employees agency over what they will be working is a way to attract the best and the brightest. This ensures that new SWEs will be working on things they truly care about.
 
 ## Survey Questions: Satisfaction with the process and tool
 ### Overall, how satisfied or dissatisfied are you with the team selection process from boot camp?
@@ -27,10 +27,17 @@ How satisfied or dissatisfied are you with the team selection support the Jobs t
 - Evaluating teams
 - Selecting a team to join
 
-### In order to alleviate the challenges of excess demand, how would you feel if the boot camp team selection process changed in one of the following ways?
+### To alleviate the challenges of excess demand, how would you feel if the boot camp team selection process changed in one of the following ways?
 - Limiting your reachouts (both sent and received from hiring teams, active and pending) to 5
 - Limiting the types of teams that you can engage with (based on talent profile, level, skills)
 - Introducing a matching system that determines which teams you can engage with based on your preferences (similar to the internship program or residency matching model)
 - Preallocating all campers to designated pillars Keeping the current system where you and your teams are free to engage with any team that is a good fit
+
+## Exploratory Data Analysis
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/1cb78f03-3bad-404b-9a39-969d98eedb3a)
+
+
+
 
 
