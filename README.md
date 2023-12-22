@@ -121,7 +121,7 @@ Satisfaction with the team selection support the Jobs tool provides.
 The data shows that whether they are in Menlo Park or outside of Menlo Park, the location does not change the boot camp experience.
 
 
-## To make sure that location has no influence on boot camper satisfaction hypothesis test were run on each variable vs location.
+## To ensure that location does not influence boot camper satisfaction, a hypothesis test was run on each variable vs location.
 
 H~0= Satisfaction is independent of location
 H~a= Satisfaction depends on location
