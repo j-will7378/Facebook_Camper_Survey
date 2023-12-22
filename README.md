@@ -37,11 +37,50 @@ How satisfied or dissatisfied are you with the team selection support the Jobs t
 
 ![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/1cb78f03-3bad-404b-9a39-969d98eedb3a)
 
-### Frequency distribution of finding a team of interest
+### Frequency distribution of finding a team of interest.
 
 ![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/683cb0a0-aabb-49a4-856e-419fd22a7885)
 
 ### Satisfaction with responding to and tracking teams that reach out.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/55e2e830-18d1-4ba4-897f-0d81501a8623)
+
+Satisfaction with Coordinating with your mentor on how to best engage with hiring managers and their teams.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/373de16d-a0c0-43c0-9728-263bf0a792d4)
+
+Satisfaction with The responsiveness of hiring managers that you have reached out to.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/34e20804-411a-4f04-83dc-7df495677023)
+
+Satisfaction with tracking team selection progress and next steps for hiring managers/teams you interact with.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/19022391-72d1-45b0-b7e9-d7a338da1bb0)
+
+Satisfaction with tracking team selection progress and next steps for hiring managers/teams you interact with.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/e5dc00c2-6bd6-438c-b912-d99512492cbb)
+
+Satisfaction with the effort needed to find a team relative to your external job experience.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/1d0b15cd-5de0-45a5-979c-aab3531c9c4d)
+
+Satisfaction with the level of transparency and insight into the hiring manager's decision throughout the process.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/c95b2394-e538-4aaf-b0b1-becc28d75237)
+
+Satisfaction with the team selection support the Jobs tool provides.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
