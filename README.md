@@ -71,6 +71,70 @@ Satisfaction with the level of transparency and insight into the hiring manager'
 
 Satisfaction with the team selection support the Jobs tool provides.
 
+## Observation:
+What we see from all the frequency distributions is that the campers are satisfied with the experience.
+There is nothing in the data thus far that indicates that there are any problems with the boot camp experience.
+
+
+## Now, we look at the frequency distribution with respect to location.
+
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/a7959ded-872f-49e1-9aae-980fb60b21cb)
+
+Overall satisfaction with selection process.
+
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/0e8c9056-2d8d-4275-856f-d76680cf4759)
+
+Satisfaction with finding teams of interest.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/2d9d3c9f-1195-4b8f-9de3-aa0355aa0013)
+
+Satisfaction with responding to to and tracking teams that reach out to you.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/a1785a76-b029-4203-9244-65d50e537593)
+
+Satisfaction with Coordinating with your mentor on how to best engage with hiring managers and their teams.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/f0437e36-f1a0-46f0-ad89-710f7c279e8d)
+
+Satisfaction with The responsiveness of hiring managers that you have reached out to.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/271478ea-136a-4046-9fe4-16c2285fe44e)
+
+Satisfaction with tracking team selection progress and next steps for hiring managers/teams that you are interacting with.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/5c3f672b-2976-4297-a4c1-3d22844c2482)
+
+Satisfaction with the level of effort needed to find a team relative to your external experience with finding a job.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/14b904ae-66aa-45c9-a561-69c9bfb889e1)
+
+Satisfaction with the level of transparency and insight into the hiring manager's decision throughout the process.
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/4916b644-f1a5-4fbf-9a3e-c733c78cb0f1)
+
+Satisfaction with the team selection support the Jobs tool provides.
+
+## Observations:
+
+The data shows that whether they are in Menlo Park or outside of Menlo Park, the location does not change the boot camp experience.
+
+
+## To make sure that location has no influence on boot camper satisfaction hypothesis test were run on each variable vs location.
+
+H~0= Satisfaction is independent of location
+H~a= Satisfaction depends on location
+
+
+
+
+
+
+
+
+
+
 
 
 
