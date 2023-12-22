@@ -37,7 +37,14 @@ How satisfied or dissatisfied are you with the team selection support the Jobs t
 
 ![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/1cb78f03-3bad-404b-9a39-969d98eedb3a)
 
-### FRequency distribution of finding a team of interest
+### Frequency distribution of finding a team of interest
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/683cb0a0-aabb-49a4-856e-419fd22a7885)
+
+### Satisfaction with responding to and tracking teams that reach out.
+
+
+
 
 
 
