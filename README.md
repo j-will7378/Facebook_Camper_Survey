@@ -137,6 +137,10 @@ The p-value is 0.7413611616086629
 ![Screenshot 2023-12-21 at 11 55 23 PM](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/2df13e2b-d51e-4a60-b33e-bdd4bc4dda7d)
 
 
+## Conclusion
+
+1. Campers are satisfied with the camper experience.
+2. Satisfaction with the boot camp is independent of the location of the boot camp.
 
 
 
