@@ -123,8 +123,9 @@ The data shows that whether they are in Menlo Park or outside of Menlo Park, the
 
 ## To ensure that location does not influence boot camper satisfaction, a hypothesis test was run on each variable vs location.
 
-H~0= Satisfaction is independent of location
-H~a= Satisfaction depends on location
+H~0= Satisfaction is independent of location.
+
+H~a= Satisfaction depends on location.
 
 
 
