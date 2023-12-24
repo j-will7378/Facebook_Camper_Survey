@@ -190,6 +190,46 @@ Name: Why are you not satisfied with the team selection process?, dtype: object
 
 ### The text clustering allowed me to make sense of the answers to each question.
 
+### Here is what I learned
+
+### Why campers are not satisfied
+- Geo restricting can be hard.
+- Confusion on the availability of teams.
+- The tool feels useless if teams are not reaching out.
+- The manager experience differs, but they go through the process like an IC.
+
+### Why campers are satisfied.
+
+- The ability to sit with different teams was appreciated. This allowed the campers to understand what working with a specific team would be like.
+
+### Why are campers unsatisfied with the support given by the jobs tool?
+
+- Information and functionality are not updated often.
+
+
+### Why campers are satisfied with the support of the tool?
+
+- The tool is easy to use.
+
+
+### What would make the selection process better?
+
+- Up-to-date information.
+- Interaction from the teams needs to improve.
+
+
+### What would you like to tell the hiring hub team if you had the chance?
+
+- Need more support from the mentors.
+- Let campers know of all of their options to engage with teams.
+- Need to be more specific about the team and the job, not just the org.
+
+
+### How can the jobs tool better support the selection process?
+
+- Improve listings and filters. Better searching
+- All teams should be able to be searched regardless of open headcount.
+
 
 
 
