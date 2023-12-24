@@ -153,6 +153,45 @@ The p-value is 0.7413611616086629
 ![carbon (4)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/5b4cde40-e598-48bf-8a81-f5903245aead)
 
 
+### Here is an example of that. I won't display the word count for each variable.
+
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/1ba3955d-57d2-4e81-bdbe-b120d2c15ecd)
+
+### When looking through the word counts, this did not reveal anything.
+
+## The next technique I wanted to try is text clustering. I was hoping that this would give me better insight into the patterns in the answers to the open-ended questions.
+
+![carbon (5)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/f552fee7-2f8c-4d4e-8d74-8eba173060e3)
+
+![carbon (6)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/e337bc69-7ed1-4b23-b02c-26bafd932748)
+
+![carbon (7)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/5a492d95-5c51-4cff-872c-1fad9ef61c5d)
+
+![carbon (8)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/b93e6612-5246-46e1-b3af-736bab6ce8ab)
+
+### Here is an example of the output of the clusters
+
+Cluster 0:
+6    I suggest not restricting bootcamper's job tools to a specific geographic location. This put me in a difficult situation where the team I was pre-allocated for got re-orged away, but I couldn't search for new teams elsewhere in the company because I was geographically restricted. I had to instead spend an inordinate amount of time "networking" to find roles within the company, a very difficult and time consuming process for a new hire. 
+Name: Why are you not satisfied with the team selection process?, dtype: object
+
+Cluster 1:
+2             Expectations of the team are not clear at the start. Was told teams are not evaluating candidates but only candidates are evaluating team but this does not seem to be true. Teams do not seem to spend too much thought on bootcamp tasks. 
+3    I and several other bootcampers felt frustrated that there was a minimum number of teams to sit with. We already knew which teams we wanted to join, but the requirement forced us to sit with other teams, which was a waste of their and our time. 
+4            I found the reachouts feature of the Job tool entirely useless. Only 1 team reached out to me during bootcamp, and then a second after I selected a team. I sat with teams by reaching out to them individually and asking to sit with them. 
+Name: Why are you not satisfied with the team selection process?, dtype: object
+
+Cluster 2:
+0                                                      As a manager camper, the process was different than others.  There were limited options I was asked to consider.
+1                                          Availability of information about teams in a consistent format was not available. Too many options available to choose from.
+5    I joined a team on a Thursday but manager told he will switch team next Tuesday. I feel if some manager is in the process of changing team, they should not hire. 
+Name: Why are you not satisfied with the team selection process?, dtype: object
+
+### The text clustering allowed me to make sense of the answers to each question.
+
+
+
 
 
 
