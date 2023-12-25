@@ -160,7 +160,7 @@ The p-value is 0.7413611616086629
 
 ### When looking through the word counts, this did not reveal anything.
 
-## The next technique I wanted to try is text clustering. I was hoping that this would give me better insight into the patterns in the answers to the open-ended questions.
+## The next technique I wanted to try is text clustering. I hoped this would give me better insight into the patterns in the answers to the open-ended questions.
 
 ![carbon (5)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/f552fee7-2f8c-4d4e-8d74-8eba173060e3)
 
@@ -230,6 +230,52 @@ Name: Why are you not satisfied with the team selection process?, dtype: object
 - Improve listings and filters. Better searching
 - All teams should be able to be searched regardless of open headcount.
 
+
+## The next technique I tried was a word cloud. I hoped this would give a better visual representation of the open-ended answers.
+
+![carbon (9)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/deab7e8e-9c78-420b-8a8e-53cdde8e2e34)
+
+![carbon (10)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/def001b5-5dbb-4c5c-9fff-48ceb0158a38)
+
+![image](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/d2860909-b99f-400a-afb4-25de7c3a4cbd)
+
+### Although visually appealing, this was not as helpful as I thought it might be.
+
+
+## The next technique is topic modeling
+
+![carbon (11)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/821db2d8-8a48-40b3-9291-66cd9bbc1dde)
+
+![carbon (12)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/e5080d26-a6df-435c-b922-b3dce196a90a)
+
+![carbon (13)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/7b6a2677-089d-4878-91fe-483c747e7a48)
+
+![carbon (14)](https://github.com/j-will7378/Facebook_Camper_Survey/assets/133849655/ba540be1-8f0a-4f8d-a9ee-ed57ce5478c7)
+
+
+Topic 1:
+nan options limited said choose teams managers process hire told
+Topic 2:
+team managers process bootcamp join candidates selection told headcount hiring
+Topic 3:
+teams team available tool job jobs time spend hire bootcamper
+Topic 4:
+time team work really start short task teams managers days
+Topic 5:
+team teams time selection bootcampers manager sit know told let
+
+
+### This also did not yield the results I thought it would. There are also better NLP tools that are better suited for this.  
+
+
+# Overall Conclusion
+
+- Campers are generally satisfied with the experience.
+    - Campers appreciate the ability to explore and work on things that they are passionate about.
+- There are issues with maintenance of the the tool
+    - Things like team information and teams that are actively looking are not always up-to-date in the tool.
+- Interaction from teams needs to be better.
+    - teams need to be better at updating their information in the tool and interacting with the candidates.
 
 
 
